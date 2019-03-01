@@ -51,6 +51,6 @@ Visit the [Sawyer website at https://www.hisawyer.com](https://www.hisawyer.com)
 
 ## Changelog
 
-### 1.0
+### 0.1
 
 * New release
